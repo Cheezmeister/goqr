@@ -34,4 +34,4 @@ See the LICENSE file for details.
 
 ## Contact
 
-[Here.](/Cheezmeister)
+[Here.](//github.com/Cheezmeister)
